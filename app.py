@@ -1,0 +1,5 @@
+print("Senior Project Developer Profile")
+print("Name: Anijah Dancer")
+print("Major: Computer Science")
+print("Technology Interest: Artificial Intelligence/Software Development")
+print("Skill Goal: Full-Stack")
